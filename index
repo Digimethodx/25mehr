@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>گزارش خلاصه مرکز تماس زودکس - ۲۵ مهر ۱۴۰۴</title>
+  <style>
+    body {font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif; background:#f5f7fa; color:#2c3e50; margin:0; padding:20px;}
+    .container {max-width:800px; margin:auto; background:white; padding:30px; border-radius:10px; box-shadow:0 5px 15px rgba(0,0,0,0.1);}
+    h1 {text-align:center; color:#4a90e2;}
+    table {width:100%; border-collapse:collapse; margin-top:20px;}
+    th,td {border:1px solid #ddd; padding:10px; text-align:center;}
+    th {background:#4a90e2; color:white;}
+    tr:nth-child(even){background:#f9f9f9;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>گزارش خلاصه مرکز تماس زودکس - ۲۵ مهر ۱۴۰۴</h1>
+
+    <h2>خدمات مشتریان</h2>
+    <table>
+      <tr><th>شاخص</th><th>مقدار</th></tr>
+      <tr><td>کل تماس‌ها</td><td>۱٬۰۰۶</td></tr>
+      <tr><td>پاسخ‌داده‌شده</td><td>۹۴۶</td></tr>
+      <tr><td>از‌دست‌رفته</td><td>۳۶</td></tr>
+      <tr><td>رهاشده</td><td>۲۴</td></tr>
+      <tr><td>ASA (میانگین انتظار)</td><td>۱۵.۶ ثانیه</td></tr>
+      <tr><td>AHT (میانگین مکالمه)</td><td>۱.۱۷ دقیقه</td></tr>
+      <tr><td>نرخ پاسخ‌گویی</td><td>۹۶.۳٪</td></tr>
+      <tr><td>نرخ رهاشدگی</td><td>۲.۴٪</td></tr>
+    </table>
+
+    <h2>مجموعه‌ها</h2>
+    <table>
+      <tr><th>شاخص</th><th>مقدار</th></tr>
+      <tr><td>کل تماس‌ها</td><td>۱۵۴</td></tr>
+      <tr><td>پاسخ‌داده‌شده</td><td>۱۴۶</td></tr>
+      <tr><td>از‌دست‌رفته</td><td>۸</td></tr>
+      <tr><td>رهاشده</td><td>۰</td></tr>
+      <tr><td>ASA (میانگین انتظار)</td><td>۱۷.۳ ثانیه</td></tr>
+      <tr><td>AHT (میانگین مکالمه)</td><td>۱.۶۴ دقیقه</td></tr>
+      <tr><td>نرخ پاسخ‌گویی</td><td>۹۴.۸٪</td></tr>
+    </table>
+  </div>
+</body>
+</html>
